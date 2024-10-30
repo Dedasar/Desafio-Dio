@@ -8,4 +8,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - **Pagamento** – Pode ter cadastrado mais de uma forma de pagamento;
 - **Entrega** – Possui status e código de rastreio;
 
-### Baseada nisso, cheiguei ao rascunho em anexo.
+### Baseada nisso, cheguei ao rascunho em anexo, confeccionado no draw.io;
